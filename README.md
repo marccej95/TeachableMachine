@@ -9,3 +9,5 @@ keras_model.h5
 These are the two outputs from exporting a teachable machine image recognition model, as a Tensorflow Keras model. 
 
 Once you have cloned this repo and added the two files, you can create an app from it on https://streamlit.io/cloud
+
+URL: https://marcusteachablemachine.streamlit.app/
